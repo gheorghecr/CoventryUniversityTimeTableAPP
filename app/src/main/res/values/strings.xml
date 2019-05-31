@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P-A-T-S</string>
+    <string name="student_password">Student Password</string>
+    <string name="title_activity_main_menu_staff">MainMenuStaff</string>
+    <string name="title_activity_generate_update">generate_update</string>
+    <string name="student_email">Student Email</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_courseID">Student Course ID</string>
+    <string name="student_stage">Student Stage</string>
+    <string name="student_group">Student Group</string>
+    <string name="title_activity_register_st">registerST</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727437253150",
+    "firebase_url": "https://pats-notif.firebaseio.com",
+    "project_id": "pats-notif",
+    "storage_bucket": "pats-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727437253150:android:7e7c7371686a73a5",
+        "android_client_info": {
+          "package_name": "com.example.p_a_t_s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727437253150-enjnfb9an85o5mcutnen6ff7ae9s8c0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpsP_Ab6TnuwnDBqsCoDJCdc0BqKS7gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
