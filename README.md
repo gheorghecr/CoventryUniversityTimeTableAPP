@@ -10,4 +10,3 @@ Our final application has the login page where the user will log in, and dependi
 To develop this project, I used Android Studio, the programming languages that I used were: Java PHP SQL I also improved my skill using JSON and learned how to use SharedPreferences API.
 The methodology chosen by us in order to develop this project was Agile Scrum.
 
-The following images show the final product aspect.
